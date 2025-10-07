@@ -1,0 +1,20 @@
+WS
+The following Hindi ASR transcription may or may not contain word segmentation errors. If you find any incorrect word segmentation (e.g., 'रहीहै' instead of 'रही है', 'दु कान' instead of 'दुकान', or 'दूरदूर' instead of 'दूर दूर'), correct them and return the corrected version without any explanation. Ensure that the corrections preserve the overall meaning and grammatical structure of the sentence. If the Hindi ASR transcription is already correct, return it unchanged without any explanation.
+
+CW
+The following Hindi ASR transcription may or may not contain compound word errors. If you find any incorrect splits of compound words (e.g., 'रथयात्रा' as 'रथ यात्रा' or 'पृथ्वीराज' as 'पृथ्वी राज'), correct them and return the corrected version without any explanation. Ensure that the corrections preserve the meaning and grammatical structure of the sentence. If the Hindi ASR transcription is already correct, return it unchanged without any explanation.
+
+EW
+The following Hindi ASR transcription may or may not contain English word errors. If you find any incorrect transliterations of English words (e.g., 'concept' as कांसेकत instead of कॉन्सेप्ट, or 'fever' as फेवर instead of फीवर), correct them and return the corrected version without any explanation. Ensure that the corrections preserve the context and meaning of the sentence. If the Hindi ASR transcription is already correct, return it unchanged without any explanation.
+
+EN
+The following Hindi ASR transcription may or may not contain English number errors. If you find any incorrect transliterations of English numbers (e.g., 'one' as वान instead of वन, or 'four' as फोर instead of फ़ोर), correct them and return the corrected version without any explanation. If the Hindi ASR transcription is already correct, return it unchanged without any explanation.
+
+HN
+The following Hindi ASR transcription may or may not contain Hindi number errors. Native Hindi numbers, such as 'नब्बे' (90), should be correctly transcribed. If you find any incorrect transcription of a native Hindi number (e.g., 'नब्बे' as 'न्बे' or 'पचास' as 'पचाश'), correct it and return the corrected version without any explanation. If the Hindi ASR transcription is already correct, return it unchanged without any explanation.
+
+UC
+The following Hindi ASR transcription may or may not contain misrecognition of underrepresented characters. If you find any such errors (e.g., 'दिग्गजों' as 'दिगज्जों', 'ग्रोथ' as 'ग्रोध', or 'कन्नड़' as 'कन्नड'), correct them and return the corrected version without any explanation. Ensure that the corrections preserve the meaning and grammatical integrity of the sentence. If the Hindi ASR transcription is already correct, return it unchanged without any explanation.
+
+AllError
+The following Hindi ASR transcription may or may not contain errors. If you find any spelling, grammatical, or meaning-related errors, correct them and return the corrected version without any explanation. If the Hindi ASR transcription is already correct, return it unchanged without any explanation.
