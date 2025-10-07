@@ -1,12 +1,12 @@
 # 🗣️ Post-ASR Correction in Hindi  
-**EMNLP 2025 Submission**  
+**EACL 2026 Submission**  
 **Comparing LMs and LLMs in Low-Resource Scenarios**
 
 This repository accompanies our EMNLP 2025 paper:  
 **"Post ASR Correction in Hindi: Comparing Language Models and Large Language Models in Low-Resource Scenarios."**  
 We benchmark the effectiveness of fine-tuned models (`ByT5`, `mT5`) and large-scale LLMs (`LLaMA`, `ChatGPT-4o-mini`) for improving the quality of Hindi ASR transcriptions.
 
-📄 [Read the Paper (PDF)](./EMNLP2025___Post_ASR_Correction_in_Hindi__Comparing_Language_Models_and_Large_Language_Models_in_Low_Resource_Scenarios-1.pdf)
+📄 [Read the Paper (PDF)](./EACL2026___Post_ASR_Correction_in_Hindi__Comparing_Language_Models_and_Large_Language_Models_in_Low_Resource_Scenarios.pdf)
 
 ---
 
